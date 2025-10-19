@@ -2,7 +2,7 @@
 
  I'm a Software Engineering student at Can Tho University.  
  I’m building projects to improve my skills in **C, Python, JavaScript, Java**.  
- Currently learning **data structures, algorithms, and backend development**.  
+ Currently learning **data structures, algorithms, and web development**.  
 
 ##  Interests
  Artificial Intelligence and Machine Learning  
