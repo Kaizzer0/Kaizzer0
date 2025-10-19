@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Nguyen Tan Duc  
 
-<!--
-**Kaizzer0/Kaizzer0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I'm a Software Engineering student at Can Tho University.  
+ I’m building projects to improve my skills in **C, Python, JavaScript, Java**.  
+ Currently learning **data structures, algorithms, and backend development**.  
 
-Here are some ideas to get you started:
+##  Interests
+ Artificial Intelligence and Machine Learning  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Contact
+ Email: ntduc2005@gmail.com  
+ Connect with me on [LinkedIn](https://www.linkedin.com/in/nguyễn-tấn-đức-311760285)
+
+
