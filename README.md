@@ -11,4 +11,6 @@
  Email: ntduc2005@gmail.com  
  Connect with me on [LinkedIn](https://www.linkedin.com/in/nguyễn-tấn-đức-311760285)
 
-
+##  My Projects
+[Library Management System](https://github.com/Kaizzer0/project-Library-.git)
+-  a Java-based library management project for university coursework.
