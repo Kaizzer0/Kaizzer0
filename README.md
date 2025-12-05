@@ -13,4 +13,4 @@
 -  a Java-based library management project for university coursework.
 
 [Product Management System](https://github.com/Kaizzer0/LibraryJavaConnectMongoDB.git)
-- Simple console application to manage products stored in MongoDB
+- A dual-mode application with CLI console and JavaFX GUI for managing products and library books using MongoDB.
